@@ -1,4 +1,4 @@
-import createAccount from "./createaccount.js";
+import createAccount from "./createAccount.js";
 import getAccounts from "./getAccount.js";
 import getAccountById from "./getAccountById.js";
 import updateAccount from "./updateAccount.js";
